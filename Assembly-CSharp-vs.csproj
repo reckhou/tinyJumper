@@ -51,6 +51,7 @@
      <Compile Include="Assets\AutoTileSet\Source\AutoTileSetManagerEditor.cs" />
      <Compile Include="Assets\AutoTileSet\Source\AutoTileSetQuad.cs" />
      <Compile Include="Assets\AutoTileSet\Source\AutoTileSetSprite.cs" />
+     <Compile Include="Assets\MusicController.cs" />
      <Compile Include="Assets\Scripts\CharController.cs" />
      <Compile Include="Assets\Scripts\GameControllerPlatform.cs" />
      <Compile Include="Assets\groundDetect.cs" />

@@ -3,6 +3,7 @@ using System.Collections;
 
 public class GameControllerPlatform : MonoBehaviour {
 	public CharController mainChar;
+	public MusicController musicController;
 	// Use this for initialization
 	void Start () {
 	
@@ -13,6 +14,7 @@ public class GameControllerPlatform : MonoBehaviour {
 		if (Input.GetKeyDown("space")) {
 			print("Jump!");
 			mainChar.Jump();
+			musicController.Switch();
 			return;
 		}
 		if (Input.GetKey("left")) {
