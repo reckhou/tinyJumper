@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\AutoTileSet\Source\AutoFade.cs" />
      <Compile Include="Assets\AutoTileSet\Source\AutoTile.cs" />
      <Compile Include="Assets\AutoTileSet\Source\AutoTileSetManager.cs" />
      <Compile Include="Assets\AutoTileSet\Source\AutoTileSetManagerEditor.cs" />
@@ -54,6 +55,7 @@
      <Compile Include="Assets\MusicController.cs" />
      <Compile Include="Assets\Scripts\CharController.cs" />
      <Compile Include="Assets\Scripts\GameControllerPlatform.cs" />
+     <Compile Include="Assets\StartSceneController.cs" />
      <Compile Include="Assets\groundDetect.cs" />
      <Compile Include="Assets\itemController.cs" />
      <Compile Include="Assets\triggerController.cs" />

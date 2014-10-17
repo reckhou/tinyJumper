@@ -1,14 +1,17 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/itemController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AutoTileSet/Source/AutoFade.cs">
     <Files>
       <File FileName="Assets/AutoTileSet/README.txt" Line="1" Column="1" />
       <File FileName="Assets/Scripts/CharController.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/GameControllerPlatform.cs" Line="1" Column="1" />
       <File FileName="Assets/groundDetect.cs" Line="1" Column="1" />
-      <File FileName="Assets/AutoTileSet/Source/AutoTileSetManagerEditor.cs" Line="1" Column="1" />
-      <File FileName="Assets/triggerController.cs" Line="18" Column="59" />
-      <File FileName="Assets/itemController.cs" Line="18" Column="22" />
+      <File FileName="Assets/AutoTileSet/Source/AutoTileSetManagerEditor.cs" Line="1" Column="4" />
+      <File FileName="Assets/triggerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/itemController.cs" Line="1" Column="1" />
+      <File FileName="Assets/MusicController.cs" Line="1" Column="1" />
+      <File FileName="../moeShooter/Assets/AutoTileSet/Source/AutoTileSetManagerEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets/AutoTileSet/Source/AutoFade.cs" Line="92" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
